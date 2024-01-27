@@ -1,2 +1,2 @@
 # portfolio
-Minha evolução em programação.
+Minha evolução em Python.
